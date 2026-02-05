@@ -25,4 +25,4 @@ I believe in learning by doing, staying consistent, and showing up with intentio
 
 
 
-This is already giving *focused, future cloud leader* energy 🚀
+
