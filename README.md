@@ -1,27 +1,76 @@
-# About-ME-
 
-### 👋 Hi, I’m Ukhona Sibutha
 
-I’m a driven and curious learner with a growing passion for **technology, business, and leadership**, and how these fields intersect to solve real-world problems.
+# 👋 Hey there, and welcome to my page!
 
-I’m currently:
+My name is **Ukhona Sibutha**, and I like to think of myself as a *little master of many trades*—someone who is always curious and eager to explore new skills and opportunities.
 
-* ☁️ **Participating in the AWS re/Start Program**, where I’m building strong foundations in cloud computing, IT support, Linux, networking, security fundamentals, and professional readiness
-* 🎓 A **second-year UNISA student**, pursuing a **BCom in Business Informatics**, which allows me to blend technical thinking with business strategy while developing strong skills in **problem-solving, teamwork, responsibility, and time management**
+## 🌿 Faith & Leadership
 
-I enjoy working on structured, practical projects that challenge me to think critically and continuously improve, and I value environments that encourage learning, collaboration, and growth.
+One of the most important parts of my life is my **faith and relationship with Jesus Christ**. I founded and currently lead a **small-to-medium women's Bible study group**, which has helped me grow tremendously in **leadership, communication, accountability, and teamwork**.
 
-My interests include:
+Leading this ministry has also taught me how to recognize **potential and strengths in others**, encouraging them to grow in their own journeys.
 
-* 💻 Cloud computing & emerging technologies
-* 📊 Business analysis, accounting & operations
-* 🌱 Leadership, service, and personal development
+Serving in my **local church as an usher** has also shaped many of my values. This role required me to always be **presentable, attentive, and willing to help others**. It pushed me outside of my comfort zone and taught me the importance of being aware of the needs of those around me.
 
-In the long term, I aim to **build purpose-driven businesses**, create opportunities for others, and use technology as a tool for meaningful community impact.
+## 👠 Modeling & Personal Growth
 
-I believe in learning by doing, staying consistent, and showing up with intention.
+I have also explored **modeling**, including **runway and pageantry**. As someone who was naturally shy and preferred staying in the background, modeling helped me break out of my shell.
 
-📫 *Let’s connect, collaborate, and build something impactful.*
+Through this experience, I learned to:
+
+* Walk into a room with confidence
+* Present myself professionally
+* Speak in front of others with assurance
+
+It has been a powerful journey of **personal growth and self-discovery**.
+
+## 🎓 Academic Journey
+
+I am currently **pursuing a BCom in Business Informatics at the University of South Africa (UNISA)**. This degree combines two areas I am deeply interested in: **business and technology**.
+
+Some of the modules I am studying include:
+
+* **DSC1520** – Quantitative Modelling I
+* **ECS1501** – Economics IA
+* **FAC1502** – Financial Accounting Principles, Concepts and Procedures
+* **INF1505** – Introduction to Business Information Systems
+* **INF1511** – Visual Programming I (Python)
+* **INF1520** – Human-Computer Interaction I
+* **MNB1501** – Business Management IA
+* **SUS1501** – Sustainability and Greed
+
+Through these modules, I am developing skills in **business strategy, programming, data analysis, and understanding how technology supports modern organizations**.
+
+## ☁️ Exploring Technology
+
+I am currently also part of the **AWS re/Start program**, where I am building foundational skills in **cloud computing, IT support, Linux, networking, security fundamentals, and professional readiness**.
+
+This program has opened my eyes to the exciting world of **cloud technology** and how it can be used to solve real-world problems.
+
+## 🎨 Creativity & Hobbies
+
+One of my favorite hobbies is **designing posters**—some might even call it *graphic design*!
+
+Although it can sometimes be challenging (and a little stressful 😅), I enjoy the process because it allows me to **express my creativity and bring ideas to life visually**.
+
+## 🚀 Aspirations
+
+Looking ahead, I aspire to grow into roles such as:
+
+* **AWS Cloud Practitioner / Cloud Engineer**
+* **Backend Developer**
+* **Frontend Developer**
+* **Full Stack Developer**
+
+More than anything, I am passionate about **challenging myself, learning new skills, and continuously improving**.
+
+## 🌱 Final Note
+
+This space represents my journey as I take leaps of faith, challenge myself, make mistakes, and grow from them.
+
+Thank you for visiting my page — I would love for you to **journey with me as I continue learning and building**.
+
+☕ *And if you'd ever like to buy me a coffee, I would definitely appreciate it!*
 
 
 
