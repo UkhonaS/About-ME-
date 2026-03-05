@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="images3.jfif" width="250"/>
+</p>
 
-
+<p align="center">
+  <em>Faith first, learning always.</em>
+</p>
 # 👋 Hey there, and welcome to my page!
 
 My name is **Ukhona Sibutha**, and I like to think of myself as a *little master of many trades*—someone who is always curious and eager to explore new skills and opportunities.
